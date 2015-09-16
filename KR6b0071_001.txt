@@ -1,22 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:31.562475
+#+DATE: 2015-08-30 19:36:32.487664
 #+TITLE: 猘狗經
 #+PROPERTY: CBETA_ID T04n0214
 #+PROPERTY: ID KR6b0071
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 4, No. 214
 #+PROPERTY: VOL 04
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6b0071_T_000-0799c>¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6b0071_T_001-0799c> ¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.214¶
-
- 佛說猘狗經¶
+No. 214¶
+佛說猘狗經¶
 ¶
-吳月支國居士支謙譯¶
+吳月支國居士居士支謙譯¶
 
 佛在羅閱祇耆闍崛山中，月十五日說戒。時¶
 阿難長跪白佛言：「今佛為一切救，開化五道¶
