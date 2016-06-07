@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:31.562475
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:06
 #+TITLE: 猘狗經
 #+PROPERTY: CBETA_ID T04n0214
 #+PROPERTY: ID KR6b0071
